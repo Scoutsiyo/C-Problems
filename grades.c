@@ -19,7 +19,7 @@
 
     promedio = (grade1 + grade2 + grade3) / 3;
 
-    if (promedio >= 7) {
+    if (promedio >= 70) {
       printf("Grade A\n");
     }
     else {
